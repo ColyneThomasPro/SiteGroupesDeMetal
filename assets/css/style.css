@@ -1,3 +1,33 @@
+*{
+    font-family: 'Montserrat';
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(206, 206, 206);
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: brown;
+    padding: 20px 50px 20px;
+    position: fixed;
+    width: 100%;
+    margin-top: -80px;
+}
+nav li{
+    display: inline;
+}
+ul li{
+    padding-left: 250px;
+    list-style-position : outside;
+  }
+body{
+    background-color: #111111;
+    color: rgb(206, 206, 206);
+    margin-top: 80px;
+}
 img{
     width: 700px;
+}
+h1{
+    text-align: center;
 }
