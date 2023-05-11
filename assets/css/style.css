@@ -8,10 +8,10 @@
 }
 nav{
     background-color: brown;
-    padding: 20px 50px 20px;
-    position: fixed;
+    padding: 20px 50px;
     width: 100%;
-    margin-top: -80px;
+    position: fixed;
+    top: 0%;
 }
 nav li{
     display: inline;
@@ -23,11 +23,14 @@ ul li{
 body{
     background-color: #111111;
     color: rgb(206, 206, 206);
-    margin-top: 80px;
+    padding-top: 56px   ;
 }
 img{
     width: 700px;
 }
 h1{
     text-align: center;
+}
+section{
+    padding-top: 80px;
 }
