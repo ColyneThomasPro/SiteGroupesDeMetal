@@ -14,12 +14,12 @@ nav{
     top: 0%;
 }
 nav li{
-    display: inline;
-    letter-spacing: 0.8em;
-    font-size: 1.1em;
+    letter-spacing: 0.3em;
+    font-size: 1.6em;
+    display: inline-block;
+    
 }
 ul li{
-    padding-left: 250px;
     list-style-position : outside;
   }
 body{
@@ -29,6 +29,7 @@ body{
 }
 img{
     width: 700px;
+    border-radius: 100px;
 }
 h1{
     text-align: center;
